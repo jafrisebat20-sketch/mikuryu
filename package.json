@@ -1,18 +1,21 @@
 {
-  "name": "baileys",
+  "name": "@ryuu/mikuryu",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "Mikuryu — Custom WhatsApp Web API dengan full interactive button support, fork dari Baileys",
   "keywords": [
     "whatsapp",
-    "automation"
+    "automation",
+    "mikuryu",
+    "baileys",
+    "interactive-button"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/jafrisebat20-sketch/mikuryu",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git+https://github.com/jafrisebat20-sketch/mikuryu.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Ryuu",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
