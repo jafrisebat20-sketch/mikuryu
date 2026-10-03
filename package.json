@@ -1,7 +1,7 @@
 {
-  "name": "mikuryu",
+  "name": "@ryuu-mikuryu/mikuryu",
   "type": "module",
-  "version": "7.0.0-rc16",
+  "version": "7.0.0-rc17",
   "description": "Mikuryu — Custom WhatsApp Web API dengan full interactive button support, fork dari Baileys",
   "keywords": [
     "whatsapp",
@@ -139,4 +139,4 @@
   "engines": {
     "node": ">=20.0.0"
   }
-}
+	}
